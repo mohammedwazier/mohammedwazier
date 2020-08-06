@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I Hate Electrical but i used to go to Electrical College
 -->
 
-![](https://komarev.com/ghpvc/?username=mohammedwazier&color=orange)
+![](https://komarev.com/ghpvc/?username=mohammedwazier&color=orange&style=flat-square)
 
 ```text
 🐲 Your weekly language rankings
