@@ -5,12 +5,44 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on a Company and a couple of side Project!
+- 🌱 I’m currently learning Backend dev
+- 👯 I’m looking to collaborate wiith Other Developers
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: m.waziruddin@gmail.com
+- ⚡ Fun fact: I Hate Electrical but i used to go to Electrical College
 -->
+
+```text
+🐲 Your weekly language rankings
+-----------------------------------------------------------------
+                plaintext : ▮▮▮▮▮▮ 25.0%
+                      php : ▮▮▮▮▮▮ 25.0%
+               javascript : ▮▮▮▮▮▮ 25.0%
+              shellscript : ▮▮▮ 12.5%
+                     html : ▮▮▮ 12.5%
+                     
+                     
+🐲 Global weekly language rankings
+-----------------------------------------------------------------
+               javascript : ▮▮▮▮▮ 21.2%
+                      php : ▮▮ 8.0%
+               typescript : ▮▮ 7.6%
+                     html : ▮▮ 7.3%
+                plaintext : ▮▮ 6.5%
+                   python : ▮▮ 5.8%
+                      vue : ▮ 3.9%
+          typescriptreact : ▮ 3.5%
+                     json : ▮ 3.5%
+                      css : ▮ 2.6%
+                     scss : ▮ 2.6%
+                     dart : ▮ 2.6%
+          javascriptreact : ▮ 2.2%
+                 markdown : ▮ 2.1%
+                     java : ▮ 2.0%
+                     yaml : ▮ 1.7%
+                    jsonc : ▮ 1.5%
+                      cpp : ▮ 1.2%
+                       go : ▮ 1.1%
+                    other : ▮▮▮ (438 totaling 13.2%)
+```
