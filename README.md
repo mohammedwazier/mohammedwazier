@@ -1,4 +1,6 @@
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedwazier&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="100%" />
+## Hi there, I'm Wazier 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedwazier&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" />
 
 - 🔭 I’m currently working on a Company and a couple of side Project!
 - 🌱 I’m currently learning Backend dev
