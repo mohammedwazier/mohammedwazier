@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=mohammedwazier&color=orange&style=flat-square)
 
-```text
+<!-- ```text
 ⌚︎ Timezone: Asia/Jakarta
 
 🐲 weekly language rankings
@@ -59,4 +59,4 @@ Here are some ideas to get you started:
                   cpp : ▮ 1.2%
                    go : ▮ 1.1%
                 other : ▮▮▮ (438 totaling 13.2%)
-```
+``` -->
