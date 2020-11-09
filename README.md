@@ -4,10 +4,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohammedwazier&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" />
 
-- 🔭 I’m currently working on a Company and a couple of side Project!
-- 🌱 I’m currently learning Backend dev
-- 👯 I’m looking to collaborate wiith Other Developers
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently not working on any Company, just doing a couple of side Project!
+- 🌱 I’m currently learning Backend dev and DevOps.
+- 👯 I’m looking to collaborate with Other Developers.
+- 🤔 I’m looking for help with Golang as Backend.
 - 📫 How to reach me: m.waziruddin@gmail.com
 
 <!--
