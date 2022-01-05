@@ -1,6 +1,6 @@
 ## Hi there, I'm Wazier 👋
 
-@OSSDAO-ORG•AIRDROP-0xC4d77752eC8732f93546Bd81A842A7e2ad07D677
+@OSSDAO-ORG•AIRDROP-0xea91f7CAA40d73Ecd6e5f1D999b4D010490db4Ab
 
 <!-- <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedwazier&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" /> -->
 
