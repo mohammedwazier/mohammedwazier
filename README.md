@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I Hate Electrical but i used to go to Electrical College
 -->
 
-[![mohammedwazier's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammedwazier&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/mohammedwazier)
+<!-- [![mohammedwazier's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammedwazier&theme=react-dark&custom_title=Contribution+Graph)](https://github.com/mohammedwazier) -->
 
 ![](https://komarev.com/ghpvc/?username=mohammedwazier&color=orange&style=flat-square)
 
