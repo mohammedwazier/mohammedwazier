@@ -32,8 +32,11 @@
 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)&nbsp; -->
 
+<center style="font-family:monospace;">
+   a human being who participated in this era of internet.
+</center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedwazier&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohammedwazier&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515" width="50%" /> -->
 
 <!-- - 🔭 I’m currently working on a Company, and doing a couple of side Project!
 - 🌱 I’m currently learning Backend dev and DevOps.
